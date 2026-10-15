@@ -1,0 +1,26 @@
+{
+  "name": "get-method-api-questions",
+  "version": "1.0.0",
+  "description": "15 separate GET API examples using static data and Express.js",
+  "main": "question1_orders.js",
+  "scripts": {
+    "q1": "node question1_orders.js",
+    "q2": "node question2_users.js",
+    "q3": "node question3_products.js",
+    "q4": "node question4_students.js",
+    "q5": "node question5_employees.js",
+    "q6": "node question6_books.js",
+    "q7": "node question7_movies.js",
+    "q8": "node question8_courses.js",
+    "q9": "node question9_cities.js",
+    "q10": "node question10_weather.js",
+    "q11": "node question11_order_by_id.js",
+    "q12": "node question12_user_by_name.js",
+    "q13": "node question13_product_by_id.js",
+    "q14": "node question14_student_by_name.js",
+    "q15": "node question15_employee_by_id.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
